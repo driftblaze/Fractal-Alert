@@ -6,7 +6,7 @@
 *A fractal is a never ending pattern.*
 
 ## How it works ##
-Fractal Alert uses concept that earthquakes are a fractal distribution of clustering seismicity with the self similarity function. Same is for floods being continuous function of time and is characterized by its temporal fraction. Hurricanes is a large entity into which storms converges. Storms are composed of large series of air currents that has fractal dimension of even smaller entities.
+Fractal Alert uses concept that earthquakes are a fractal distribution of clustering seismicity with the self similarity function. Same is for floods being continuous function of time and is characterized by its temporal fraction. Hurricanes is a large entity into which storms converges. Storms are composed of large series of air currents that has fractal dimension of even smaller entities. Floods are a fractal pattern of rivulets and sediments.
 Also, fractal changes contributing to water-table fluctuations reflects the ongoing hydro-tectonics of the region.  
 
 ![Early Earthquake Warnings](http://www.earthmagazine.org/sites/earthmagazine.org/files/2015-09/EarlyEarthquakeWarnings.png). 
