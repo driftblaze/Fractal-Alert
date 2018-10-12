@@ -20,7 +20,7 @@ For Tsunami, early warning of high sea waves, that has fractal dimension of smal
 
 So, program can predict these disasters if it is able to compute the fractal data of such catastrophes, eg- it can analyse the large spatial consistency global positioning system-derived vertical velocities that expose small amplitude but spatially considerable, coherent pattern of  subsidence straddling the fault system.
 The sensor picks up "infrasonic low pitched vibrations that are trigger to these catastrophes.
-For calculations we know volume for surface area of the affected region that will be limited, and so iterating fractal program could be approximated so that we don't recur to infinity. So scaling factor epsilon that corresponds to scaling invariance shall be set to a finite value.
+For calculations we know volume for surface area of the affected region that will be limited, and so iterating fractal program could be approximated so that we don't recur to infinity i.e. scaling factor *epsilon* that corresponds to scaling invariance shall be set to a finite value.
 
 ## Parameters
 For hydro-seismic disasters, sensor will fetch spatial temporal changes in the fractures of the regions that have bad history of natural calamities. This shall be achieved by a recursive algorithm that will take into concern "the degree of multifractality","the sparseness" and "the degree of smoothness". The mentioned parameters can be computed via a JavaScript program. This data would be essential in determining the generation method of these hydro seismic disasters based on Fractal Geometry.
