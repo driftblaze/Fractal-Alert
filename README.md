@@ -59,4 +59,5 @@ var context = canvas.getContext('2d');
 ```
 
 ## Conclusion
-Fractal Alert aims to make change on earth, fostering hope among the masses that we can now predict therefore prevent  disasters by taking necessary action "beforehand", safeguarding those innocent lives. It's time to challenge interglot that calamities can't be predicted.
+Fractal Alert aims to make change on earth, fostering hope among the masses that we can now predict therefore prevent  disasters by taking necessary action "beforehand", safeguarding those innocent lives. It's time to challenge interglot that calamities can't be predicted.  
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
