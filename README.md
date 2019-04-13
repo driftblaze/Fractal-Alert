@@ -28,7 +28,7 @@ For earthquakes, the time duration of earthquakes over the years can be self-sim
 For floods, considering Hausdorff measure-H, Hurst component-H', fractal dimension-D, flood intensity-F and volumetric flow of river as function of time.For Hurricane prediction, Chaos Theory comes in handy. 
 The sensor for the infrasonic low pitched vibrations must have a long endurance, long range and greater accuracy to sense those fractals.
 
-![Grove Sensor](https://docs.google.com/document/d/1cqZmtloxHkKVhykLybvYx5cKnC-xw6pUZFksPo6RMSs/edit?usp=sharing)
+![Grove Sensor](http://i64.tinypic.com/34ioj9t.png)
 
 ## Coding
 1. Earthquake- (location)
