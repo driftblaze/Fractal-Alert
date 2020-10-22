@@ -29,6 +29,7 @@ For floods, considering Hausdorff measure-H, Hurst component-H', fractal dimensi
 The sensor for the infrasonic low pitched vibrations must have a long endurance, long range and greater accuracy to sense those fractals.
 
 ![GROVE SENSOR](https://www.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar885578_3.jpg)
+<image src="https://www.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar885578_3.jpg)" height = "100" width = "100">
 ## Coding
 1. Earthquake- (location)
 ```javascript
