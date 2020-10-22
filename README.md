@@ -1,4 +1,4 @@
-# Fractal alert -using JavaScript
+# Fractal alert using JavaScript
 
 ## Introduction
   Fractal alert is a repository for developing an effective warning system that would predict and prevent the impact of natural disasters such as earthquake, hurricanes, floods, etc.
@@ -28,7 +28,7 @@ For earthquakes, the time duration of earthquakes over the years can be self-sim
 For floods, considering Hausdorff measure-H, Hurst component-H', fractal dimension-D, flood intensity-F and volumetric flow of river as function of time.For Hurricane prediction, Chaos Theory comes in handy. 
 The sensor for the infrasonic low pitched vibrations must have a long endurance, long range and greater accuracy to sense those fractals.
 
-![Grove Sensor](http://i64.tinypic.com/34ioj9t.png)
+<img src="https://www.seeedstudio.site/media/catalog/product/cache/9d0ce51a71ce6a79dfa2a98d65a0f0bd/h/t/httpsstatics3.seeedstudio.comseeedfile2018-07bazaar885578_3.jpg" width = "400">
 
 ## Coding
 1. Earthquake- (location)
