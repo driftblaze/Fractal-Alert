@@ -9,7 +9,7 @@
 Fractal Alert uses concept that earthquakes are a fractal distribution of clustering seismicity with the self similarity function. Same is for floods being continuous function of time and is characterized by its temporal fraction. Hurricanes is a large entity into which storms converges. Storms are composed of large series of air currents that has fractal dimension of even smaller entities. Floods are a fractal pattern of rivulets and sediments.
 Also, fractal changes contributing to water-table fluctuations reflects the ongoing hydro-tectonics of the region.  
 
-![Early Earthquake Warnings](http://www.earthmagazine.org/sites/earthmagazine.org/files/2015-09/EarlyEarthquakeWarnings.png). 
+![Early Earthquake Warnings](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/styles/atom_page_medium/public/thumbnails/image/fs2014-3083-1-mod.png). 
 
 
 For Tsunami, early warning of high sea waves, that has fractal dimension of smaller chains in the sea bed contribute to larger Tsunami.   
